@@ -6,7 +6,7 @@ import { Sequelize } from "sequelize";
 import { Command, defineCommandModel } from "./models/CommandModel";
 
 const token =
-    "MTE5NzAwMjAwMDEzNTYxODY2MA.GTFBrc.wQr7hhXd7JBiMGD271VyaXRSeCKk47kPFvDj-c";
+    "token";
 const clientId = "1197002000135618660";
 const guildId = "1195975632098701402";
 const dbPath = "./database/database.sqlite";
